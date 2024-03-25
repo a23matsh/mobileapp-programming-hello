@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Hello</string>
+    <string name="app_name">xSpace</string>
+    <string name="App_intro">Welcome to xSpace!</string>
 </resources>
