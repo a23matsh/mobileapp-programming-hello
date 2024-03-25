@@ -5,7 +5,7 @@
 
 Jag har ändrat app namnet till "xSpace" genom att ändra i String "App name" och sedan har jag 
 ändrat så att introduktions meddelandet säger "Welcome to xSpace" genom att göra en ny string name
-som heter "App intro"
+som heter "App intro".
 
 ## Följande grundsyn gäller dugga-svar:
 
